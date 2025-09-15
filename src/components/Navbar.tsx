@@ -24,7 +24,7 @@ const Navbar = () => {
                 <Users className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-lg font-bold text-gray-900">EduAdvisor</h1>
+                <h1 className="text-lg font-bold text-gray-900">Sahayak</h1>
                 <p className="text-xs text-gray-600">Career Guidance Platform</p>
               </div>
             </Link>

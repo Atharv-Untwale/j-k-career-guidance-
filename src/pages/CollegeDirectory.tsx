@@ -19,9 +19,9 @@ const CollegeDirectory = () => {
       facilities: ["Library", "Hostels", "Labs", "Sports Complex", "Wi-Fi"],
       fees: "₹5,000 - ₹15,000",
       contact: {
-        phone: "0194-2272096",
+        phone: "+91 (194) 227 2096",
         email: "info@kashmiruniversity.net",
-        website: "www.kashmiruniversity.ac.in"
+        website: "kashmiruniversity.net"
       },
       cutoff: "65% for general category",
       scholarships: ["Merit Scholarship", "SC/ST Scholarship", "Minority Scholarship"]
